@@ -14,8 +14,8 @@ test:
 production:
   protocol: 'http'                                               
   host: 192.168.2.202                  # VM IP
-  port: 50988                  # VM Port
+  port: 33514                  # VM Port
   prefix: t       # Database Name a/c to prefix and suffix 
 #  suffix: production              # Database Name a/c to  prefix and suffix
-  username: a2gy98xzxicn1ho5         # User Name
-  password: 'an1bi65bd3z288f3zqfcg4si1u7l1474'        # Password
+  username: ada79d12wta2gnc5         # User Name
+  password: 'a97cdrky5cv5r4vn5x4ebqkfk9piduh7'        # Password
